@@ -1,3 +1,6 @@
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/adrienbenoist/teslaprep/blob/master/README.md)
+[![fr](https://img.shields.io/badge/lang-fr-green.svg)](https://github.com/adrienbenoist/teslaprep/blob/master/README.fr.md)
+
 # Tesla Prep
 This is a guide for buying, taking delivery of, and owning a Tesla Model 3 or Model Y.
 

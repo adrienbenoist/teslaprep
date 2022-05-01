@@ -1,3 +1,6 @@
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/adrienbenoist/teslaprep/blob/master/README.md)
+[![fr](https://img.shields.io/badge/lang-fr-green.svg)](https://github.com/adrienbenoist/teslaprep/blob/master/README.fr.md)
+
 # Model Y Checklist #
 
 This is available as a [mobile app for iOS and Android](https://teslaprep.glideapp.io), too.
