@@ -1,5 +1,5 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/adrienbenoist/teslaprep/blob/master/README.md)
-[![fr](https://img.shields.io/badge/lang-fr-green.svg)](https://github.com/adrienbenoist/teslaprep/blob/master/README.fr.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/adrienbenoist/teslaprep/blob/master/checklists/model%203/model_3_checklist.md)
+[![fr](https://img.shields.io/badge/lang-fr-green.svg)](https://github.com/adrienbenoist/teslaprep/blob/master/checklists/model%203/model_3_checklist.fr.md)
 
 # Model 3 Checklist #
 

@@ -1,5 +1,5 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/adrienbenoist/teslaprep/blob/master/README.md)
-[![fr](https://img.shields.io/badge/lang-fr-green.svg)](https://github.com/adrienbenoist/teslaprep/blob/master/README.fr.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/adrienbenoist/teslaprep/blob/master/checklists/model%20y/model_y_checklist.md)
+[![fr](https://img.shields.io/badge/lang-fr-green.svg)](https://github.com/adrienbenoist/teslaprep/blob/master/checklists/model%20y/model_y_checklist.fr.md)
 
 # Liste de contrôle du modèle Y #
 

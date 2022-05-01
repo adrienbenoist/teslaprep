@@ -1,5 +1,5 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/adrienbenoist/teslaprep/blob/master/README.md)
-[![fr](https://img.shields.io/badge/lang-fr-green.svg)](https://github.com/adrienbenoist/teslaprep/blob/master/README.fr.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/adrienbenoist/teslaprep/blob/master/checklists/cybertruck/cybertruck_checklist.md)
+[![fr](https://img.shields.io/badge/lang-fr-green.svg)](https://github.com/adrienbenoist/teslaprep/blob/master/checklists/cybertruck/cybertruck_checklist.fr.md)
 
 # Cybertruck
 Il s'agit d'un guide complet sur la préparation, la réception et la possession d'un Tesla Cybertruck.
