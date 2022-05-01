@@ -97,7 +97,7 @@ After checking in with a Tesla employee, you'll likely be waiting around for a w
 Tesla's delivery folks typically give you just 10 to 15 minutes to inspect the vehicle before moving on to other deliveries, so it's advised to bring a checklist to inspect your new Tesla for any deal-breaking issues.
 
 - [Model 3 delivery checklist](https://github.com/adrienbenoist/teslaprep/blob/master/checklists/model%203/model_3_checklist.md)
-- [Model Y delivery checklist](https://github.com/adrienbenoist/teslaprep/blob/master/checklists/cybertruck/cybertruck_checklist.md)
+- [Model Y delivery checklist](https://github.com/adrienbenoist/teslaprep/blob/master/checklists/model%20y/model_y_checklist.md)
 
 
 ## Post-inspection:
