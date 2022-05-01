@@ -6,7 +6,7 @@ This is a guide for buying, taking delivery of, and owning a Tesla Model 3 or Mo
 
 Just looking for a delivery checklist?
 -  Check the [mobile app for iOS and Android](https://teslaprep.glideapp.io).
--  Or jump to the text files: [Model 3](model_3_checklist.md) / [Model Y](model_y_checklist.md).
+-  Or jump to the text files: [Model 3](https://github.com/adrienbenoist/teslaprep/blob/master/checklists/model%203/model_3_checklist.md) / [Model Y](https://github.com/adrienbenoist/teslaprep/blob/master/checklists/model%20y/model_y_checklist.md).
 
 |Navigation|
 |-----------------|
@@ -96,8 +96,8 @@ After checking in with a Tesla employee, you'll likely be waiting around for a w
 # VEHICLE INSPECTION CHECKLIST
 Tesla's delivery folks typically give you just 10 to 15 minutes to inspect the vehicle before moving on to other deliveries, so it's advised to bring a checklist to inspect your new Tesla for any deal-breaking issues.
 
-- [Model 3 delivery checklist](model_3_checklist.md)
-- [Model Y delivery checklist](model_y_checklist.md)
+- [Model 3 delivery checklist](https://github.com/adrienbenoist/teslaprep/blob/master/checklists/model%203/model_3_checklist.md)
+- [Model Y delivery checklist](https://github.com/adrienbenoist/teslaprep/blob/master/checklists/cybertruck/cybertruck_checklist.md)
 
 
 ## Post-inspection:

@@ -9,7 +9,7 @@ Ceci est un guide pour acheter, prendre livraison et posséder une Tesla Model 3
 
 Vous cherchez simplement une liste de contrôle de livraison?
 - Consultez l'[application mobile pour iOS et Android](https://teslaprep.glideapp.io).
-- Ou passez directement aux fichiers texte : [Modèle 3](model_3_checklist.md) / [Modèle Y](model_y_checklist.md).
+- Ou passez directement aux fichiers texte : [Modèle 3](https://github.com/adrienbenoist/teslaprep/blob/master/checklists/model%203/model_3_checklist.fr.md) / [Modèle Y](https://github.com/adrienbenoist/teslaprep/blob/master/checklists/model%20y/model_y_checklist.fr.md).
 
 |Navigation|
 |-----------------|
@@ -99,8 +99,8 @@ Après vous être enregistré auprès d'un employé de Tesla, vous attendrez pro
 # LISTE DE CONTRÔLE POUR L'INSPECTION DU VÉHICULE
 Les livreurs de Tesla ne vous donnent généralement que 10 à 15 minutes pour inspecter le véhicule avant de passer à d'autres livraisons, il est donc conseillé d'apporter une liste de contrôle pour inspecter votre nouvelle Tesla pour tout problème de rupture de contrat.
 
-- [Liste de contrôle de livraison du modèle 3] (model_3_checklist.md)
-- [Liste de contrôle de livraison du modèle Y] (model_y_checklist.md)
+- [Liste de contrôle de livraison du modèle 3] (https://github.com/adrienbenoist/teslaprep/blob/master/checklists/model%203/model_3_checklist.fr.md)
+- [Liste de contrôle de livraison du modèle Y] (https://github.com/adrienbenoist/teslaprep/blob/master/checklists/model%20y/model_y_checklist.fr.md)
 
 
 ## Post-inspection :

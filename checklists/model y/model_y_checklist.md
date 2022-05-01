@@ -1,5 +1,5 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/adrienbenoist/teslaprep/blob/master/checklists/cybertruck/cybertruck_checklist.mdß)
-[![fr](https://img.shields.io/badge/lang-fr-green.svg)](https://github.com/adrienbenoist/teslaprep/blob/master/checklists/cybertruck/cybertruck_checklist.fr.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/adrienbenoist/teslaprep/blob/master/checklists/model%20y/model_y_checklist.md)
+[![fr](https://img.shields.io/badge/lang-fr-green.svg)](https://github.com/adrienbenoist/teslaprep/blob/master/checklists/model%20y/model_y_checklist.fr.md)
 
 # Model Y Checklist #
 
